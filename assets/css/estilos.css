@@ -45,9 +45,9 @@ body {
    }
 
 .text-fill {
-  color: var(--fill-1);
+ color: var(--fill-1);  
 }
 
 .button-fill {
-  color: var(--fill-1);
+  color: var(--fill-1); 
 }
